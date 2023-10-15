@@ -3,6 +3,8 @@
 
 前两天用这个模板答辩拿到国奖了。你如果会 Latex 且注重 PPT 的简洁，推荐使用这个模板
 
+如果你遇到任何困难，联系：jiahaoli57@163.com
+ 
 # 例子
 ![image](demo/title_page.jpg)
 ![image](demo/contents_page.jpg)
