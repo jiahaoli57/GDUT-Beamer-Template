@@ -3,7 +3,7 @@
 
 A beamer template for Guangdong University of Technology, based on PKU beamer template
 
-前两天用这个模板答辩拿到国奖了。你如果会 Latex 且注重 PPT 的简洁，推荐用这个模板
+前两天用这个模板答辩拿到国奖了。你如果会 Latex 且注重 PPT 的简洁，推荐使用这个模板
 
 # 例子
 ![image](demo/title_page.jpg)
