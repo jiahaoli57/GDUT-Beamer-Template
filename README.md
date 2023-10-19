@@ -10,6 +10,7 @@
 任何使用困难
 
 联系：jiahaoli57@163.com
+Overleaf 链接：[Overleaf]([链接URL](https://www.overleaf.com/latex/templates/yan-dong-gong-ye-da-xue-zhong-wen-mo-ban-gdut-beamer-template/gyrbwbthpvcn))
  
 # 例子
 ![image](demo/title_page.jpg)
